@@ -134,19 +134,20 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <Mail className="h-6 w-6 text-purple-600" />
-                  <span className="text-gray-600">support@bookmind.com</span>
+                  <span className="text-gray-600">techknights@bookmind.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Phone className="h-6 w-6 text-purple-600" />
-                  <span className="text-gray-600">+1 (555) 123-4567</span>
+                  <span className="text-gray-600">987654321</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="h-6 w-6 text-purple-600" />
-                  <span className="text-gray-600">123 Book Street, Reading City, RC 12345</span>
+                  <span className="text-gray-600">IT-PARK KONGU ENGINEERING COLLEGE</span>
                 </div>
               </div>
             </div>
 
+            
             <div className="bg-white rounded-lg shadow-lg p-8">
               <h2 className="text-2xl font-bold text-purple-900 mb-6">FAQ</h2>
               <div className="space-y-4">
